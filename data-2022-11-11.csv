@@ -1,0 +1,461 @@
+countryCode,countryRegion,countryName,weight,standard_price,registered_price
+IE,Ireland,"Ireland",0.25,2.6,8.2
+IE,Ireland,"Ireland",0.5,3.5,8.3
+XA,Ireland,"Northern Ireland",0.25,2.6,8.2
+XA,Ireland,"Northern Ireland",0.5,3.5,8.3
+GB,ROW,"Great Britain",0.25,5,12
+GB,ROW,"Great Britain",0.5,6.5,13.5
+US,ROW,"United States",0.25,8,15
+US,ROW,"United States",0.5,10,17
+AL,ROW,"Albania",0.25,5.5,12.5
+AL,ROW,"Albania",0.5,7,14
+AS,ROW,"American Samoa",0.25,8,15
+AS,ROW,"American Samoa",0.5,10,17
+AD,ROW,"Andorra ",0.25,5.5,12.5
+AD,ROW,"Andorra ",0.5,7,14
+AO,ROW,"Angola",0.25,8,15
+AO,ROW,"Angola",0.5,10,17
+AI,ROW,"Anguilla",0.25,8,15
+AI,ROW,"Anguilla",0.5,10,17
+AG,ROW,"Antigua And Barbuda",0.25,8,15
+AG,ROW,"Antigua And Barbuda",0.5,10,17
+AR,ROW,"Argentina",0.25,9,16
+AR,ROW,"Argentina",0.5,13,20
+AW,ROW,"Aruba",0.25,8,15
+AW,ROW,"Aruba",0.5,10,17
+AU,ROW,"Australia",0.25,9,16
+AU,ROW,"Australia",0.5,13,20
+AT,Europe,"Austria",0.25,5.5,12.5
+AT,Europe,"Austria",0.5,7,14
+BS,ROW,"Bahamas",0.25,8,15
+BS,ROW,"Bahamas",0.5,10,17
+BH,ROW,"Bahrain",0.25,8,15
+BH,ROW,"Bahrain",0.5,10,17
+BD,ROW,"Bangladesh",0.25,8,15
+BD,ROW,"Bangladesh",0.5,10,17
+BB,ROW,"Barbados",0.25,8,15
+BB,ROW,"Barbados",0.5,10,17
+BE,Europe,"Belgium",0.25,5,12
+BE,Europe,"Belgium",0.5,6.5,13.5
+BZ,ROW,"Belize",0.25,8,15
+BZ,ROW,"Belize",0.5,10,17
+BJ,ROW,"Benin",0.25,8,15
+BJ,ROW,"Benin",0.5,10,17
+BM,ROW,"Bermuda",0.25,8,15
+BM,ROW,"Bermuda",0.5,10,17
+BO,ROW,"Bolivia",0.25,9,16
+BO,ROW,"Bolivia",0.5,13,20
+BA,ROW,"Bosnia And Herzegovina",0.25,5.5,12.5
+BA,ROW,"Bosnia And Herzegovina",0.5,7,14
+BW,ROW,"Botswana",0.25,8,15
+BW,ROW,"Botswana",0.5,10,17
+BR,ROW,"Brazil",0.25,9,16
+BR,ROW,"Brazil",0.5,13,20
+BG,Europe,"Bulgaria",0.25,5.5,12.5
+BG,Europe,"Bulgaria",0.5,7,14
+BF,ROW,"Burkina Faso",0.25,8,15
+BF,ROW,"Burkina Faso",0.5,10,17
+BI,ROW,"Burundi",0.25,8,na
+BI,ROW,"Burundi",0.5,10,na
+KH,ROW,"Cambodia",0.25,8,15
+KH,ROW,"Cambodia",0.5,10,17
+CM,ROW,"Cameroon",0.25,8,15
+CM,ROW,"Cameroon",0.5,10,17
+CA,ROW,"Canada",0.25,8,15
+CA,ROW,"Canada",0.5,10,17
+IC,ROW,"Canary Islands ",0.25,5.5,12.5
+IC,ROW,"Canary Islands ",0.5,7,14
+CV,ROW,"Cape Verde",0.25,8,na
+CV,ROW,"Cape Verde",0.5,10,na
+KY,ROW,"Cayman Islands",0.25,8,15
+KY,ROW,"Cayman Islands",0.5,10,17
+CF,ROW,"Central African Republic",0.25,8,15
+CF,ROW,"Central African Republic",0.5,10,17
+CL,ROW,"Chile",0.25,9,16
+CL,ROW,"Chile",0.5,13,20
+CN,ROW,"China",0.25,8,15
+CN,ROW,"China",0.5,10,17
+CX,ROW,"Christmas Island",0.25,8,15
+CX,ROW,"Christmas Island",0.5,10,17
+CC,ROW,"Cocos (Keeling) Islands",0.25,8,15
+CC,ROW,"Cocos (Keeling) Islands",0.5,10,17
+CO,ROW,"Colombia",0.25,9,16
+CO,ROW,"Colombia",0.5,13,20
+KM,ROW,"Comoros",0.25,8,15
+KM,ROW,"Comoros",0.5,10,17
+CD,ROW,"Congo Democratic Rep.",0.25,8,15
+CD,ROW,"Congo Democratic Rep.",0.5,10,17
+CK,ROW,"Cook Islands",0.25,9,16
+CK,ROW,"Cook Islands",0.5,13,20
+CR,ROW,"Costa Rica",0.25,8,15
+CR,ROW,"Costa Rica",0.5,10,17
+CI,ROW,"Cote D Ivoire-Ivory Coast",0.25,8,15
+CI,ROW,"Cote D Ivoire-Ivory Coast",0.5,10,17
+HR,Europe,"Croatia",0.25,5.5,12.5
+HR,Europe,"Croatia",0.5,7,14
+CU,ROW,"Cuba",0.25,8,15
+CU,ROW,"Cuba",0.5,10,17
+CY,Europe,"Cyprus",0.25,5.5,12.5
+CY,Europe,"Cyprus",0.5,7,14
+CZ,Europe,"Czech Republic",0.25,5.5,12.5
+CZ,Europe,"Czech Republic",0.5,7,14
+DK,Europe,"Denmark",0.25,5.5,12.5
+DK,Europe,"Denmark",0.5,7,14
+DJ,ROW,"Djibouti",0.25,8,15
+DJ,ROW,"Djibouti",0.5,10,17
+DM,ROW,"Dominica",0.25,8,15
+DM,ROW,"Dominica",0.5,10,17
+DO,ROW,"Dominican Republic",0.25,8,15
+DO,ROW,"Dominican Republic",0.5,10,17
+EC,ROW,"Ecuador",0.25,9,16
+EC,ROW,"Ecuador",0.5,13,20
+EG,ROW,"Egypt",0.25,8,15
+EG,ROW,"Egypt",0.5,10,17
+SV,ROW,"El Salvador",0.25,8,15
+SV,ROW,"El Salvador",0.5,10,17
+GQ,ROW,"Equatorial Guinea",0.25,8,15
+GQ,ROW,"Equatorial Guinea",0.5,10,17
+ER,ROW,"Eritrea",0.25,8,15
+ER,ROW,"Eritrea",0.5,10,17
+EE,Europe,"Estonia",0.25,5.5,12.5
+EE,Europe,"Estonia",0.5,7,14
+ET,ROW,"Ethiopia",0.25,8,15
+ET,ROW,"Ethiopia",0.5,10,17
+FK,ROW,"Falkland Islands-Malvinas",0.25,8,15
+FK,ROW,"Falkland Islands-Malvinas",0.5,10,17
+FO,ROW,"Faroe Islands",0.25,5.5,12.5
+FO,ROW,"Faroe Islands",0.5,7,14
+FJ,ROW,"Fiji",0.25,8,15
+FJ,ROW,"Fiji",0.5,10,17
+FI,Europe,"Finland",0.25,5.5,12.5
+FI,Europe,"Finland",0.5,7,14
+FR,Europe,"France",0.25,5,12
+FR,Europe,"France",0.5,6.5,13.5
+GF,ROW,"French Guiana",0.25,8,na
+GF,ROW,"French Guiana",0.5,10,na
+PF,ROW,"French Polynesia",0.25,8,na
+PF,ROW,"French Polynesia",0.5,10,na
+TF,ROW,"French Sth Territory",0.25,8,na
+TF,ROW,"French Sth Territory",0.5,10,na
+GA,ROW,"Gabon",0.25,8,15
+GA,ROW,"Gabon",0.5,10,17
+GM,ROW,"Gambia",0.25,8,15
+GM,ROW,"Gambia",0.5,10,17
+GE,ROW,"Georgia",0.25,8,15
+GE,ROW,"Georgia",0.5,10,17
+DE,Europe,"Germany",0.25,5,12
+DE,Europe,"Germany",0.5,6.5,13.5
+GH,ROW,"Ghana",0.25,8,15
+GH,ROW,"Ghana",0.5,10,17
+GI,ROW,"Gibraltar",0.25,5.5,12.5
+GI,ROW,"Gibraltar",0.5,7,14
+GR,Europe,"Greece",0.25,5.5,12.5
+GR,Europe,"Greece",0.5,7,14
+GL,ROW,"Greenland",0.25,5.5,12.5
+GL,ROW,"Greenland",0.5,7,14
+GD,ROW,"Grenada",0.25,8,15
+GD,ROW,"Grenada",0.5,10,17
+GP,ROW,"Guadeloupe",0.25,8,15
+GP,ROW,"Guadeloupe",0.5,10,17
+GU,ROW,"Guam",0.25,8,15
+GU,ROW,"Guam",0.5,10,17
+GT,ROW,"Guatemala",0.25,8,15
+GT,ROW,"Guatemala",0.5,10,17
+GG,ROW,"Guernsey",0.25,5.5,12.5
+GG,ROW,"Guernsey",0.5,7,14
+GN,ROW,"Guinea",0.25,8,15
+GN,ROW,"Guinea",0.5,10,17
+GW,ROW,"Guinea-Bissau",0.25,8,15
+GW,ROW,"Guinea-Bissau",0.5,10,17
+GY,ROW,"Guyana",0.25,9,16
+GY,ROW,"Guyana",0.5,13,20
+HT,ROW,"Haiti",0.25,8,15
+HT,ROW,"Haiti",0.5,10,17
+HK,ROW,"Hong Kong",0.25,8,15
+HK,ROW,"Hong Kong",0.5,10,17
+HU,Europe,"Hungary",0.25,5.5,12.5
+HU,Europe,"Hungary",0.5,7,14
+IS,ROW,"Iceland",0.25,5.5,12.5
+IS,ROW,"Iceland",0.5,7,14
+IN,ROW,"India",0.25,8,15
+IN,ROW,"India",0.5,10,17
+ID,ROW,"Indonesia",0.25,8,15
+ID,ROW,"Indonesia",0.5,10,17
+IR,ROW,"Iran",0.25,8,15
+IR,ROW,"Iran",0.5,10,17
+IQ,ROW,"Iraq",0.25,8,na
+IQ,ROW,"Iraq",0.5,10,na
+IL,ROW,"Israel",0.25,8,15
+IL,ROW,"Israel",0.5,10,17
+IT,Europe,"Italy",0.25,5.5,12.5
+IT,Europe,"Italy",0.5,7,14
+JM,ROW,"Jamaica",0.25,8,15
+JM,ROW,"Jamaica",0.5,10,17
+JP,ROW,"Japan",0.25,8,15
+JP,ROW,"Japan",0.5,10,17
+JE,ROW,"Jersey",0.25,5.5,12.5
+JE,ROW,"Jersey",0.5,7,14
+JO,ROW,"Jordan",0.25,8,15
+JO,ROW,"Jordan",0.5,10,17
+KE,ROW,"Kenya",0.25,8,15
+KE,ROW,"Kenya",0.5,10,17
+KI,ROW,"Kiribati",0.25,8,15
+KI,ROW,"Kiribati",0.5,10,17
+KR,ROW,"Korea Republic (South)",0.25,8,15
+KR,ROW,"Korea Republic (South)",0.5,10,17
+KW,ROW,"Kuwait",0.25,8,15
+KW,ROW,"Kuwait",0.5,10,17
+LA,ROW,"Laos",0.25,8,15
+LA,ROW,"Laos",0.5,10,17
+LV,Europe,"Latvia",0.25,5.5,12.5
+LV,Europe,"Latvia",0.5,7,14
+LB,ROW,"Lebanon",0.25,8,15
+LB,ROW,"Lebanon",0.5,10,17
+LS,ROW,"Lesotho",0.25,8,15
+LS,ROW,"Lesotho",0.5,10,17
+LI,ROW,"Liechtenstein",0.25,5.5,12.5
+LI,ROW,"Liechtenstein",0.5,7,14
+LT,Europe,"Lithuania",0.25,5.5,12.5
+LT,Europe,"Lithuania",0.5,7,14
+LU,Europe,"Luxembourg",0.25,5,12
+LU,Europe,"Luxembourg",0.5,6.5,13.5
+MO,ROW,"Macao",0.25,8,15
+MO,ROW,"Macao",0.5,10,17
+MK,ROW,"Macedonia",0.25,5.5,12.5
+MK,ROW,"Macedonia",0.5,7,14
+MG,ROW,"Madagascar",0.25,8,15
+MG,ROW,"Madagascar",0.5,10,17
+MW,ROW,"Malawi",0.25,8,15
+MW,ROW,"Malawi",0.5,10,17
+MY,ROW,"Malaysia",0.25,8,15
+MY,ROW,"Malaysia",0.5,10,17
+MV,ROW,"Maldives",0.25,8,15
+MV,ROW,"Maldives",0.5,10,17
+ML,ROW,"Mali",0.25,8,15
+ML,ROW,"Mali",0.5,10,17
+MT,Europe,"Malta",0.25,5.5,12.5
+MT,Europe,"Malta",0.5,7,14
+MH,ROW,"Marshall Islands",0.25,8,15
+MH,ROW,"Marshall Islands",0.5,10,17
+MQ,ROW,"Martinique",0.25,8,15
+MQ,ROW,"Martinique",0.5,10,17
+MR,ROW,"Mauritania",0.25,8,15
+MR,ROW,"Mauritania",0.5,10,17
+MU,ROW,"Mauritius",0.25,8,15
+MU,ROW,"Mauritius",0.5,10,17
+MX,ROW,"Mexico",0.25,8,15
+MX,ROW,"Mexico",0.5,10,17
+FM,ROW,"Micronesia Fed. States",0.25,8,na
+FM,ROW,"Micronesia Fed. States",0.5,10,na
+MN,ROW,"Mongolia",0.25,8,15
+MN,ROW,"Mongolia",0.5,10,17
+ME,ROW,"Montenegro",0.25,5.5,12.5
+ME,ROW,"Montenegro",0.5,7,14
+MS,ROW,"Montserrat",0.25,8,15
+MS,ROW,"Montserrat",0.5,10,17
+MA,ROW,"Morocco",0.25,8,15
+MA,ROW,"Morocco",0.5,10,17
+MZ,ROW,"Mozambique",0.25,8,15
+MZ,ROW,"Mozambique",0.5,10,17
+MM,ROW,"Myanmar",0.25,8,15
+MM,ROW,"Myanmar",0.5,10,17
+NA,ROW,"Namibia",0.25,8,15
+NA,ROW,"Namibia",0.5,10,17
+NR,ROW,"Nauru",0.25,8,15
+NR,ROW,"Nauru",0.5,10,17
+NP,ROW,"Nepal",0.25,8,15
+NP,ROW,"Nepal",0.5,10,17
+NL,Europe,"Netherlands",0.25,5,12
+NL,Europe,"Netherlands",0.5,6.5,13.5
+NC,ROW,"New Caledonia",0.25,8,15
+NC,ROW,"New Caledonia",0.5,10,17
+NZ,ROW,"New Zealand",0.25,9,16
+NZ,ROW,"New Zealand",0.5,13,20
+NE,ROW,"Niger",0.25,8,15
+NE,ROW,"Niger",0.5,10,17
+NG,ROW,"Nigeria",0.25,8,15
+NG,ROW,"Nigeria",0.5,10,17
+NU,ROW,"Niue Island",0.25,9,16
+NU,ROW,"Niue Island",0.5,13,20
+NF,ROW,"Norfolk Island",0.25,9,16
+NF,ROW,"Norfolk Island",0.5,13,20
+NO,ROW,"Norway",0.25,5.5,12.5
+NO,ROW,"Norway",0.5,7,14
+OM,ROW,"Oman",0.25,8,15
+OM,ROW,"Oman",0.5,10,17
+PK,ROW,"Pakistan",0.25,8,15
+PK,ROW,"Pakistan",0.5,10,17
+PW,ROW,"Palau Islands",0.25,8,na
+PW,ROW,"Palau Islands",0.5,10,na
+PS,ROW,"Palestinian Territory",0.25,8,15
+PS,ROW,"Palestinian Territory",0.5,10,17
+PA,ROW,"Panama",0.25,8,15
+PA,ROW,"Panama",0.5,10,17
+PG,ROW,"Papua New Guinea",0.25,8,15
+PG,ROW,"Papua New Guinea",0.5,10,17
+PY,ROW,"Paraguay",0.25,9,16
+PY,ROW,"Paraguay",0.5,13,20
+PE,ROW,"Peru",0.25,9,16
+PE,ROW,"Peru",0.5,13,20
+PH,ROW,"Philippines",0.25,8,15
+PH,ROW,"Philippines",0.5,10,17
+PN,ROW,"Pitcairn Island",0.25,8,15
+PN,ROW,"Pitcairn Island",0.5,10,17
+PL,Europe,"Poland",0.25,5.5,12.5
+PL,Europe,"Poland",0.5,7,14
+PT,Europe,"Portugal",0.25,5.5,12.5
+PT,Europe,"Portugal",0.5,7,14
+PR,ROW,"Puerto Rico",0.25,8,15
+PR,ROW,"Puerto Rico",0.5,10,17
+QA,ROW,"Qatar",0.25,8,15
+QA,ROW,"Qatar",0.5,10,17
+RE,ROW,"Reunion",0.25,8,15
+RE,ROW,"Reunion",0.5,10,17
+RO,Europe,"Romania",0.25,5.5,12.5
+RO,Europe,"Romania",0.5,7,14
+RW,ROW,"Rwanda",0.25,8,15
+RW,ROW,"Rwanda",0.5,10,17
+WS,ROW,"Samoa",0.25,8,15
+WS,ROW,"Samoa",0.5,10,17
+SM,ROW,"San Marino",0.25,5.5,12.5
+SM,ROW,"San Marino",0.5,7,14
+ST,ROW,"Sao Tome And Principe",0.25,8,15
+ST,ROW,"Sao Tome And Principe",0.5,10,17
+SA,ROW,"Saudi Arabia",0.25,8,15
+SA,ROW,"Saudi Arabia",0.5,10,17
+SN,ROW,"Senegal",0.25,8,15
+SN,ROW,"Senegal",0.5,10,17
+RS,ROW,"Serbia",0.25,5.5,12.5
+RS,ROW,"Serbia",0.5,7,14
+SC,ROW,"Seychelles",0.25,8,15
+SC,ROW,"Seychelles",0.5,10,17
+SG,ROW,"Singapore",0.25,8,15
+SG,ROW,"Singapore",0.5,10,17
+SK,Europe,"Slovakia",0.25,5.5,12.5
+SK,Europe,"Slovakia",0.5,7,14
+SI,Europe,"Slovenia",0.25,5.5,12.5
+SI,Europe,"Slovenia",0.5,7,14
+ZA,ROW,"South Africa",0.25,8,15
+ZA,ROW,"South Africa",0.5,10,17
+SS,ROW,"South Sudan",0.25,8,15
+SS,ROW,"South Sudan",0.5,10,17
+ES,Europe,"Spain",0.25,5.5,12.5
+ES,Europe,"Spain",0.5,7,14
+LK,ROW,"Sri Lanka",0.25,8,15
+LK,ROW,"Sri Lanka",0.5,10,17
+SH,ROW,"St. Helena",0.25,8,15
+SH,ROW,"St. Helena",0.5,10,17
+KN,ROW,"St. Kitts And Nevis",0.25,8,15
+KN,ROW,"St. Kitts And Nevis",0.5,10,17
+LC,ROW,"St. Lucia",0.25,8,15
+LC,ROW,"St. Lucia",0.5,10,17
+PM,ROW,"St. Pierre And Miquelon",0.25,8,15
+PM,ROW,"St. Pierre And Miquelon",0.5,10,17
+VC,ROW,"St. Vincent And Grenadines",0.25,8,15
+VC,ROW,"St. Vincent And Grenadines",0.5,10,17
+SD,ROW,"Sudan",0.25,8,15
+SD,ROW,"Sudan",0.5,10,17
+SR,ROW,"Suriname",0.25,9,16
+SR,ROW,"Suriname",0.5,13,20
+SE,Europe,"Sweden",0.25,5.5,12.5
+SE,Europe,"Sweden",0.5,7,14
+CH,ROW,"Switzerland",0.25,5.5,12.5
+CH,ROW,"Switzerland",0.5,7,14
+TW,ROW,"Taiwan",0.25,8,15
+TW,ROW,"Taiwan",0.5,10,17
+TZ,ROW,"Tanzania",0.25,8,15
+TZ,ROW,"Tanzania",0.5,10,17
+TH,ROW,"Thailand",0.25,8,15
+TH,ROW,"Thailand",0.5,10,17
+TG,ROW,"Togo",0.25,8,15
+TG,ROW,"Togo",0.5,10,17
+TK,ROW,"Tokelau Islands",0.25,9,16
+TK,ROW,"Tokelau Islands",0.5,13,20
+TO,ROW,"Tonga",0.25,8,15
+TO,ROW,"Tonga",0.5,10,17
+TT,ROW,"Trinidad And Tobago",0.25,8,15
+TT,ROW,"Trinidad And Tobago",0.5,10,17
+XT,ROW,"Tristan Da Cunha",0.25,8,15
+XT,ROW,"Tristan Da Cunha",0.5,10,17
+TN,ROW,"Tunisia",0.25,8,15
+TN,ROW,"Tunisia",0.5,10,17
+TR,ROW,"Turkey",0.25,8,15
+TR,ROW,"Turkey",0.5,10,17
+TC,ROW,"Turks And Caicos Islands",0.25,8,15
+TC,ROW,"Turks And Caicos Islands",0.5,10,17
+TV,ROW,"Tuvalu",0.25,8,15
+TV,ROW,"Tuvalu",0.5,10,17
+UG,ROW,"Uganda",0.25,8,15
+UG,ROW,"Uganda",0.5,10,17
+UA,ROW,"Ukraine",0.25,8,15
+UA,ROW,"Ukraine",0.5,10,17
+AE,ROW,"United Arab Emirates",0.25,8,15
+AE,ROW,"United Arab Emirates",0.5,10,17
+UY,ROW,"Uruguay",0.25,9,16
+UY,ROW,"Uruguay",0.5,13,20
+VU,ROW,"Vanuatu ",0.25,8,15
+VU,ROW,"Vanuatu ",0.5,10,17
+VA,ROW,"Vatican City State",0.25,5.5,12.5
+VA,ROW,"Vatican City State",0.5,7,14
+VN,ROW,"Vietnam",0.25,8,15
+VN,ROW,"Vietnam",0.5,10,17
+VG,ROW,"Virgin Islands (British)",0.25,8,15
+VG,ROW,"Virgin Islands (British)",0.5,10,17
+VI,ROW,"Virgin Islands (USA)",0.25,8,15
+VI,ROW,"Virgin Islands (USA)",0.5,10,17
+WF,ROW,"Wallis And Futuna Islands",0.25,8,15
+WF,ROW,"Wallis And Futuna Islands",0.5,10,17
+ZM,ROW,"Zambia",0.25,8,15
+ZM,ROW,"Zambia",0.5,10,17
+ZW,ROW,"Zimbabwe",0.25,8,15
+ZW,ROW,"Zimbabwe",0.5,10,17
+AF,ROW,"Afghanistan",0.25,na,na
+AF,ROW,"Afghanistan",0.5,na,na
+DZ,ROW,"Algeria",0.25,8,15
+DZ,ROW,"Algeria",0.5,10,17
+AM,ROW,"Armenia",0.25,8,15
+AM,ROW,"Armenia",0.5,10,17
+AZ,ROW,"Azerbaijan",0.25,8,15
+AZ,ROW,"Azerbaijan",0.5,10,17
+BY,ROW,"Belarus",0.25,8,15
+BY,ROW,"Belarus",0.5,10,17
+BT,ROW,"Bhutan",0.25,8,15
+BT,ROW,"Bhutan",0.5,10,17
+BN,ROW,"Brunei Darussalam",0.25,8,15
+BN,ROW,"Brunei Darussalam",0.5,10,17
+SZ,ROW,"Eswatini",0.25,8,15
+SZ,ROW,"Eswatini",0.5,10,17
+HN,ROW,"Honduras",0.25,8,15
+HN,ROW,"Honduras",0.5,10,17
+KZ,ROW,"Kazakhstan",0.25,8,15
+KZ,ROW,"Kazakhstan",0.5,10,17
+KP,ROW,"Korea Dem. Rep. (North)",0.25,8,15
+KP,ROW,"Korea Dem. Rep. (North)",0.5,10,17
+KG,ROW,"Kyrgyzstan",0.25,8,15
+KG,ROW,"Kyrgyzstan",0.5,10,17
+LY,ROW,"Libya",0.25,8,15
+LY,ROW,"Libya",0.5,10,17
+MD,ROW,"Moldova",0.25,8,15
+MD,ROW,"Moldova",0.5,10,17
+AN,ROW,"Netherlands Antilles",0.25,8,15
+AN,ROW,"Netherlands Antilles",0.5,10,17
+NI,ROW,"Nicaragua",0.25,8,15
+NI,ROW,"Nicaragua",0.5,10,17
+RU,ROW,"Russian Federation",0.25,8,15
+RU,ROW,"Russian Federation",0.5,10,17
+SB,ROW,"Solomon Islands",0.25,8,15
+SB,ROW,"Solomon Islands",0.5,10,17
+SY,ROW,"Syria",0.25,na,na
+SY,ROW,"Syria",0.5,na,na
+TJ,ROW,"Tajikistan",0.25,8,15
+TJ,ROW,"Tajikistan",0.5,10,17
+TL,ROW,"Timor-Leste",0.25,8,15
+TL,ROW,"Timor-Leste",0.5,10,17
+TM,ROW,"Turkmenistan",0.25,8,15
+TM,ROW,"Turkmenistan",0.5,10,17
+UZ,ROW,"Uzbekistan",0.25,8,15
+UZ,ROW,"Uzbekistan",0.5,10,17
+VE,ROW,"Venezuela",0.25,9,16
+VE,ROW,"Venezuela",0.5,13,20
+YE,ROW,"Yemen",0.25,8,15
+YE,ROW,"Yemen",0.5,10,17
